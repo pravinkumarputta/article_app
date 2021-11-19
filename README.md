@@ -2,6 +2,10 @@
 
 This app show list of articles.
 
+## Demo Screen
+![Demo Screen](https://github.com/pravinkumarputta/article_app/blob/master/screens/screen1.png?raw=true)
+![Demo Screen](https://github.com/pravinkumarputta/article_app/blob/master/screens/screen2.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
